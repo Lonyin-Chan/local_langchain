@@ -1,0 +1,9 @@
+
+chainlit
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langgraph
+Chroma
+bs4
