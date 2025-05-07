@@ -1,3 +1,4 @@
+Inspired by https://github.com/sudarshan-koirala/langchain-ollama-chainlit
 ## Setup Instructions
 
 1. Make sure you have Ollama installed and running with the llama3 model:
